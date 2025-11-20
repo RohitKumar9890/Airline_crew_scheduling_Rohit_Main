@@ -182,3 +182,12 @@ This demonstrates why airlines cannot use brute force and rely on **optimization
 * **requirements.txt** — dependencies
 
 ---
+📌 Project Summary
+
+| Element | Description |
+| :--- | :--- |
+| **Problem** | Airline Crew Scheduling |
+| **Strategy** | Backtracking (Constraint Satisfaction) |
+| **Time Complexity** | O(k × 2ⁿ) where n=flights, k=crew |
+| **Domain** | Resource Allocation in Aviation |
+| **Notes** | Infeasible for large datasets; requires optimization techniques |
