@@ -176,7 +176,7 @@ This demonstrates why airlines cannot use brute force and rely on **optimization
 
 ## 📌 9. Files Included
 
-* **crew_scheduling_notebook.ipynb** — full code + plots
+* **airline_crew_scheduling_Rohit_Main** — full code + plots
 * **README.md** — project explanation
 * **images/** — optional charts
 * **requirements.txt** — dependencies
