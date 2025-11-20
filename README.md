@@ -1,13 +1,13 @@
 
 # ✈️ Airline Crew Scheduling – Backtracking & Constraint Satisfaction
 
-A mini-project demonstrating how airline crew assignment can be modeled as an **NP-Hard scheduling problem**, solved using **Backtracking + Constraint Satisfaction**.
-
-This project is part of the **BCA (AI & DS)** curriculum and focuses on understanding the complexity, limitations, and practical relevance of exhaustive search methods.
+A mini-project that models airline crew assignment as an NP-Hard scheduling problem, involving multiple operational constraints.
+It demonstrates how Backtracking combined with Constraint Satisfaction can be used to explore feasible crew allocations.
+This work is developed as part of the BCA (AI & DS) curriculum, emphasizing analytical and algorithmic thinking.
 
 ---
 
-## 📌 1. Problem Description
+##  1. Problem Description
 
 Airline crew scheduling requires assigning flights to crew members while ensuring operational constraints such as rest periods and non-overlapping timings. This project solves a simplified version of the problem using backtracking.
 
@@ -26,7 +26,7 @@ Assign flights to crew members such that:
 
 ---
 
-## 📌 2. Algorithmic Strategy
+##  2. Algorithmic Strategy
 
 | Component           | Description                                                     |
 | ------------------- | --------------------------------------------------------------- |
@@ -38,7 +38,7 @@ Assign flights to crew members such that:
 
 ---
 
-## 📌 3. Features Implemented
+##  3. Features Implemented
 
 ✔ Constraint checker (overlap + rest time)
 ✔ Generates all valid assignments
@@ -50,7 +50,7 @@ Assign flights to crew members such that:
 
 ---
 
-## 📌 4. Setup Instructions
+##  4. Setup Instructions
 
 Install required libraries:
 
@@ -66,7 +66,7 @@ crew_scheduling_notebook.ipynb
 
 ---
 
-## 📌 5. Sample Output Format
+##  5. Sample Output Format
 
 Example mapping of crew members to assigned flights:
 
@@ -87,7 +87,7 @@ C3: [('F4', 11, 13)]
 
 ---
 
-## 📌 6. Insights & Conclusion
+##  6. Insights & Conclusion
 
 ### **Strengths**
 
@@ -110,7 +110,7 @@ C3: [('F4', 11, 13)]
 
 ---
 
-## 📌 7. Repository Structure
+##  7. Repository Structure
 
 ```
 airline-crew-scheduling-aaradhya/
@@ -121,7 +121,7 @@ airline-crew-scheduling-aaradhya/
 
 ---
 
-# ⭐ **8. Analysis Section (For Your Notebook Submission)**
+#  **8. Analysis Section (For Your Notebook Submission)**
 
 ## **Why Airline Crew Scheduling is NP-Hard?**
 
@@ -174,7 +174,7 @@ This demonstrates why airlines cannot use brute force and rely on **optimization
 
 ---
 
-## 📌 9. Files Included
+##  9. Files Included
 
 * **airline_crew_scheduling_Rohit_Main** — full code + plots
 * **README.md** — project explanation
@@ -182,7 +182,7 @@ This demonstrates why airlines cannot use brute force and rely on **optimization
 * **requirements.txt** — dependencies
 
 ---
-📌 Project Summary
+ Project Summary
 
 | Element | Description |
 | :--- | :--- |
